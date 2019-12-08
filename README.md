@@ -20,6 +20,9 @@ import collections
 type_to_graphviz.generate_graphviz(__builtins__, collections, collections.abc)
 ```
 
+Save the output to a file or copy and paste it into an online Graphviz renderer
+such as [WebGraphviz](http://webgraphviz.com/).
+
 Executing the file directly will generate a graph for built in classes,
 and the `collections`, `collections.abc`, and `datetime` modules.
 

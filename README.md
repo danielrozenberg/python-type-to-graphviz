@@ -4,7 +4,7 @@ This Python module generates a Graphviz-compatible formatted graph that
 represents the type hierarchy of all the classes in the specified Python
 modules.
 
-Tested on Python 3.7 only.
+Tested on Python 3.7 and 3.10.
 
 ## Usage
 
